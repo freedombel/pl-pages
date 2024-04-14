@@ -3,6 +3,8 @@ url: https://freedombel.github.io
 baseurl: /pl-pages
 remote_theme: riggraz/no-style-please
 repository: freedombel/pl-pages
+timezone: Europe/Warsaw
+show_drafts: false
 
 theme_config:
   appearance: "auto"
