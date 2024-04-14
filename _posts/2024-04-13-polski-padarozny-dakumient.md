@@ -68,8 +68,8 @@ title:  "Польскі падарожны дакумент"
 ### Dolnośląski Urząd Wojewódzki (Wrocław)
 - DUW прымае ўнёскі на падарожны дакумент **толькі поштай**
 
-- адпраўляць поўны набор неабходных дакументаў на адрас: Dolnośląski Urząd Wojewódzki | Wydział Spraw Obywatelskich
-i Cudzoziemców | pl. Powstańców Warszawy 1 | 50-153 Wrocław
+- адпраўляць поўны набор неабходных дакументаў на адрас: Dolnośląski Urząd Wojewódzki , Wydział Spraw Obywatelskich
+i Cudzoziemców , pl. Powstańców Warszawy 1 , 50-153 Wrocław
 
 - адпраўляць **абавязкова з пацверджаннем адбору** (жоуты квіток)
 
@@ -87,12 +87,17 @@ i Cudzoziemców | pl. Powstańców Warszawy 1 | 50-153 Wrocław
 
 - справу можна адсочваць праз інтэрнэт старонку
 
-- прыклады паспяховых кейсаў [^5] [^6]
+- прыклады паспяховых кейсаў[^5] [^6]
 
 ## Дадатковая інфармацыя
-- спіс польскіх аэрапартоў, авіяперавозчыкаў і краінаў (як у зоне Шэнген, так і іншыя) і як яны працуюць альбо не працуюць з польскім падарожным дакументам[^7]
+- **_калі вам дапамагла гэтая старонка, вы можаце падзякаваць аўтару кавай[^7]_**
+- Telegram чат дзеля абмяркоўвання атрымання падарожнага дакумента ва Ўроцлаве[^8]
+
+- спіс польскіх аэрапартоў, авіяперавозчыкаў і краінаў (як у зоне Шэнген, так і іншыя) і як яны працуюць альбо не працуюць з польскім падарожным дакументам[^9]
 
 - ва ўсе краіны паза Шэнгенам трэба атрымоўваць візу, нават калі ў гэтай краіны безвіз з Беларуссю
+
+- іншыя карысныя Telegram чаты і каналы: Partyzanka[^10], Partyzanka - чат беларуских беженцев в Польше[^11], 🏫 Польша от яслей до ВУЗов. Partyzanka[^12]
 
 ## Зноскі
 [^1]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
@@ -101,4 +106,13 @@ i Cudzoziemców | pl. Powstańców Warszawy 1 | 50-153 Wrocław
 [^4]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257)
 [^5]: [_https://t.me/wroclaw_dokument_podrozy/1109_](https://t.me/wroclaw_dokument_podrozy/1109)
 [^6]: [_https://t.me/wroclaw_dokument_podrozy/982_](https://t.me/wroclaw_dokument_podrozy/982)
-[^7]: [_https://telegra.ph/Polskij-proezdnoj-dokument-01-26_](https://telegra.ph/Polskij-proezdnoj-dokument-01-26)
+[^7]: [_https://buycoffee.to/padd1er_](https://buycoffee.to/padd1er)
+[^8]: [_https://t.me/wroclaw_dokument_podrozy_](https://t.me/wroclaw_dokument_podrozy)
+[^9]: [_https://telegra.ph/Polskij-proezdnoj-dokument-01-26_](https://telegra.ph/Polskij-proezdnoj-dokument-01-26)
+[^10]: [_https://t.me/partyzanka_rb_pl_](https://t.me/partyzanka_rb_pl)
+[^11]: [_https://t.me/partyzanka_czat_](https://t.me/partyzanka_czat)
+[^12]: [_https://t.me/partyzanka_pl_rb_](https://t.me/partyzanka_pl_rb)
+[^13]: [__]()
+[^14]: [__]()
+[^15]: [__]()
+[^16]: [__]()

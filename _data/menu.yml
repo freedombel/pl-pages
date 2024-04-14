@@ -1,12 +1,19 @@
 entries:
-  - title: info
+  - title: zychodny kod maich prajektaŭ
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: polskija staronki (hety blog)
+        url: https://github.com/freedombel/pl-pages
+      - title: madyfikavanaja polskaja kłaviatura z padtrymkaj biełaruskaj łacinki
+        url: https://github.com/freedombel/pl-bel
 
-  - title: all posts
+  - title: infarmacyja
+    entries:
+      - title: suviaź praz Telegram
+        url: https://t.me/jd_aka_65
+      - title: padziakavać mnie kavaj
+        url: https://buycoffee.to/padd1er
+
+  - title: usie pasty
     post_list:
       limit: 5
       show_more: true
