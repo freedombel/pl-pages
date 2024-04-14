@@ -3,7 +3,7 @@ layout: post
 title:  "Польскі падарожны дакумент"
 ---
 
-![](/assets/img/pl-travel-doc.jpg)
+![](/pl-pages/assets/img/pl-travel-doc.jpg)
 
 ## Агульная інфармацыя
 
@@ -50,7 +50,7 @@ title:  "Польскі падарожны дакумент"
 
 
 ### Прыклад запоўненага ўнёска
-[wzor-wniosek.pdf](/assets/pdf/wzor-wniosek.pdf)
+[wzor-wniosek.pdf](/pl-pages/assets/pdf/wzor-wniosek.pdf)
 
 ## Падача ўнёску
 - у залежнасці ад вашага ваяводства, унёсак складаецца альбо асабіста ва ўжондзе, альбо высылаецца поштай на адрас ужонда
