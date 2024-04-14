@@ -1,4 +1,5 @@
-  <span class="post-meta share">
+  <div class="post-meta">
+    <p>Padzialicca hetym artykułam:</p>
     {% capture title %}{{ page.title }} - {{ site.title }}{% endcapture %}
     {% assign title = title | uri_escape %}
     {% assign url = page.url | absolute_url | url_encode %}
@@ -21,4 +22,4 @@
         Copy Link ->
       </a>
     </div>
-  </span>
+  </div>

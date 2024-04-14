@@ -15,4 +15,14 @@ layout: default
 
   {{ content }}
 </article>
-{% include post-sharing.html lang=lang %}
+<footer>
+  <br>
+  <div>
+    <p>Zaŭvažyli niedakładnasć? Zviažyciesia z aŭtaram praz: </p>
+    <a href="{{ site.data.author.telegram }}">Telegram</a>
+    <a href="{{ site.data.author.github }}">GitHub</a>
+  </div>
+  <div>
+    {% include post-sharing.html lang=lang %}
+  </div>
+</footer>

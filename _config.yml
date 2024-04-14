@@ -1,16 +1,14 @@
 title: Polskija staronki
-# logo: /assets/img/logo.png
 url: https://freedombel.github.io
 baseurl: /pl-pages
 remote_theme: riggraz/no-style-please
 repository: freedombel/pl-pages
-author: Žopa z Vušami
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".. back" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  appearance: "auto"
+  back_home_text: ".. nazad"
+  date_format: "%Y-%m-%d"
+  show_description: false
 
 sass:
   style: :compressed
