@@ -1,0 +1,24 @@
+  <span class="post-meta share">
+    {% capture title %}{{ page.title }} - {{ site.title }}{% endcapture %}
+    {% assign title = title | uri_escape %}
+    {% assign url = page.url | absolute_url | url_encode %}
+
+    {% for share in site.data.share.platforms -%}
+      {%- capture tooltip -%}
+        data-bs-toggle="tooltip" data-bs-placement="top" title="{{ share.type }}" aria-label="{{ share.type }}"
+      {%- endcapture -%}
+
+      {% assign link = share.link | replace: 'TITLE', title | replace: 'URL', url %}
+
+      <div>
+        <a href="{{ link }}" target="_blank" rel="noopener" {{ tooltip }}>
+          {{ share.type }} ->
+        </a>
+      </div>
+    {% endfor %}
+    <div>
+      <a href="#" onclick="function copyUrl(){navigator.clipboard.writeText('{{ url | url_decode }}')}; copyUrl(); return false;">
+        Copy Link ->
+      </a>
+    </div>
+  </span>
