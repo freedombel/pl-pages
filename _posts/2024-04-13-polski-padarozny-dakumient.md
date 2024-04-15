@@ -94,6 +94,59 @@ title:  "Польскі падарожны дакумент"
 
 - прыклады паспяховых кейсаў[^5] [^6]
 
+### Pomorski Urząd Wojewódzki (Gdańsk)
+Ўнесак прымаюць як поштай так і на месцы. 
+
+Ніжэй асабісты досвед праз пошту:
+-  внесак: фота на першую старонку ўклеіў самастойна, абавязкова напішыце нумар тэлефону
+- 2 фота (з улікам ўклеенага фота ва ўнеску ўсяго адаслаў 3 фота)
+- ксера пашпарта рабіў ўсе старонкі, нават пустыя
+- дадаваў pisemne umotywowanie wniosku (чытаў што беларусам не трэба пісаць, але я напісаў на ўсялякі выпадак). Ўзор: 
+
+> Jestem Ivan Ivanov i proszę o wydanie polskiego dokumentu podróży dla
+> cudzoziemców z powodu wygaśnięcia mojego paszportu o numerze serii
+> AВ123456, wydanego 09.08.2020 roku w Mińsku, Republice Białorusi. Mój
+> paszport wygasł 09.08.2023 roku. Z powodów politycznych (decyzja
+> DC.00.01.2020 z dnia 00.00.2020 roku szefa działu ds. cudzoziemców)
+> nie mogę skontaktować się z konsulatami Republiki Białorusi na terenie
+> Polski, ani wrócić do Białorusi w celu jego wymiany. Polski
+> dokument podróży dla cudzoziemców jest niezbędny do wyjazdu poza
+> terytorium Republiki Polskiej.
+
+- беларусам не патрэбна аплата - як пацверджанне раздрукаваў і адаслаў https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20230001244/O/D20231244.pdf 
+
+Не пашкадуйце сашчэпак каб паперы не рассыпаліся, раскладзіце іх у адпаведным парадку згодна з опісам ва ўнеску (робім ўсе каб супрацоўніку было прасцей, лягчэй і хутчэй).
+
+Адсылаем з пацверджанем (з жоўтай карткай на пошце). Чакаем...
+
+Пасля таго як ужонд атрымае ваш ўнесак чакам такія смс:
+
+> Pomorski UW informuje o aktualizacji danych zawartych w Portalu
+> Klienta dla sprawy o numerze ID: 1122333. Informacje dodatkowe:
+> www.uw.gda.pl.
+
+Першая смс адзначае, што ўнесак паспяхова прынят і яны пачалі разглядаць вашу справу. Пішам email на cudzoziemcy.pobyt@gdansk.uw.gov.pl
+Ўзор:
+
+> Dzień dobry! Jestem Ivan Ivanov Złożyłem wniosek o wydanie polskiego
+> dokumentu podróży dla cudzoziemca   Dzisiaj otrzymałem wiadomość SMS o
+> aktualizacji danych w sprawie o numerze 1122333   Ponieważ złożyłem
+> wniosek pocztą, nie mam hasła do Portalu Klientu. Czy mogliby Państwo
+> mi je przesłać? Z góry dziękuję!
+
+У адказ атрымаеце пароль для парталу кліента - https://klient.gdansk.uw.gov.pl/
+Там можна праглядаць статус справы.
+
+Калі статус справы зменіцца на "гатовы да адбору" пішам яшчэ адзін емайл на cudzoziemcy.pobyt@gdansk.uw.gov.pl
+Ўзор:
+
+> Dzień dobry! Widzę status w Portalu Klienta - Dokument przygotowany do
+> odbioru. Teraz mogę go odebrać, czyli muszę najpierw zgłosić wizytę?
+
+Вам назначаюць дзень і час для атрымання дакумента.
+
+Яшчэ каб ўдакладніць статус справы можна званіць на нумар тэлефону **583077466**
+
 ## Разгляд справы
 - рашэнне адносна вашага wniosek **павінна быць праз 30 дзён** ад моманту яго складання (калі адпраўлялі поштай - тэрмін лічыцца ад дня атрымання wniosek ўжондам)
 
