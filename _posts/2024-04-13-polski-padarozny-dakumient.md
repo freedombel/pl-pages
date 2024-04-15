@@ -40,6 +40,17 @@ title:  "Польскі падарожны дакумент"
 - дастаткова звыклых копій, **няма абавязку рабіць натарыяльна заверанныя**
 
 - у залежнасці ад ваяводства, **могуць быць запатрабаваны іншыя дакументы**, раю спраўдзіць старонку свайго ваяводства перад падачай
+  - у Pomorski Urząd Wojewódzki (Gdańsk) і Mazowiecki Urząd Wojewódzki (Warszawa) часамі патрабуюць абаснаванне wniosek, прыклад:
+> Jestem Ivan Ivanov i proszę o wydanie polskiego dokumentu podróży dla
+> cudzoziemców z powodu wygaśnięcia mojego paszportu o numerze serii
+> AВ123456, wydanego 09.08.2020 roku w Mińsku, Republice Białorusi. Mój
+> paszport wygasł 09.08.2023 roku. Z powodów politycznych (decyzja
+> DC.00.01.2020 z dnia 00.00.2020 roku szefa działu ds. cudzoziemców)
+> nie mogę skontaktować się z konsulatami Republiki Białorusi na terenie
+> Polski, ani wrócić do Białorusi w celu jego wymiany. Polski
+> dokument podróży dla cudzoziemców jest niezbędny do wyjazdu poza
+> terytorium Republiki Polskiej.
+
 
 ## Запаўненне wniosek
 
@@ -100,17 +111,6 @@ title:  "Польскі падарожны дакумент"
   - Wydział Spraw Obywatelskich i Cudzoziemców
   - ul. Okopowa 21/27
   - 80-810 Gdańsk
-
-- дадаткова, дадайце абаснаванне wniosek (могуць запатрабаваць), прыклад:
-> Jestem Ivan Ivanov i proszę o wydanie polskiego dokumentu podróży dla
-> cudzoziemców z powodu wygaśnięcia mojego paszportu o numerze serii
-> AВ123456, wydanego 09.08.2020 roku w Mińsku, Republice Białorusi. Mój
-> paszport wygasł 09.08.2023 roku. Z powodów politycznych (decyzja
-> DC.00.01.2020 z dnia 00.00.2020 roku szefa działu ds. cudzoziemców)
-> nie mogę skontaktować się z konsulatami Republiki Białorusi na terenie
-> Polski, ani wrócić do Białorusi w celu jego wymiany. Polski
-> dokument podróży dla cudzoziemców jest niezbędny do wyjazdu poza
-> terytorium Republiki Polskiej.
 
 - калі складаеце асабіста, то неабходна **абавязкова ўзяць з сабой арыгіналы ўсіх дакументаў** для зверкі
 
