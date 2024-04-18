@@ -5,6 +5,7 @@ remote_theme: riggraz/no-style-please
 repository: freedombel/pl-pages
 timezone: Europe/Warsaw
 show_drafts: false
+goat_counter: padd1er
 
 theme_config:
   appearance: "auto"
