@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Польскае пасведчанне аб нараджэнні"
+categories: dakumienty-i-daviedki-pl 2024
+permalink: /:year/:month/:day/:title:output_ext
 ---
 
 ![](/pl-pages/assets/img/pl-birth-certificate.jpg)

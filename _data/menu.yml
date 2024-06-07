@@ -13,7 +13,24 @@ entries:
       - title: padziakavać mnie kavaj
         url: https://buycoffee.to/padd1er
 
-  - title: usie pasty
+  - title: artykuły pa katehoryjach
+    entries:
+      - title: sustrečy z uładami horada i vajavodstva pa pytanniach legalizacyi
+        post_list:
+          category: duw-wro-legalization
+          limit: 5
+          show_more: true
+          # show_more_text: Prahladzieć archiŭ...
+          # show_more_url: archive.html
+      - title: polskija dakumienty i daviedki
+        post_list:
+          category: dakumienty-i-daviedki-pl
+          limit: 5
+          show_more: true
+          # show_more_text: Prahladzieć archiŭ...
+          # show_more_url: archive.html
+
+  - title: usie artykuły
     post_list:
       limit: 5
       show_more: true
