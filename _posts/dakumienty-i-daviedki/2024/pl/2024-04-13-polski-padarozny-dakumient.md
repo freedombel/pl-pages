@@ -9,13 +9,13 @@ permalink: /:year/:month/:day/:title:output_ext
 
 ## Агульная інфармацыя
 
-- падацца на дакумент падарожны можна **не раней, чым скончыцца тэрмін дзеяння** вашага беларускага пашпарту, альбо ён скрадзены/страчаны/знішчаны (_art. 252a ust. 1 pkt.1 ustawa o cudzoziemcach[^1], art. 252 ustawa o cudzoziemcach[^2]_)
+- падацца на дакумент падарожны можна **не раней, чым скончыцца тэрмін дзеяння** вашага беларускага пашпарту, альбо ён скрадзены/страчаны/знішчаны (_art. 252a ust. 1 pkt.1 ustawa o cudzoziemcach[^art252a], art. 252 ustawa o cudzoziemcach[^art252]_)
 
-- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa o cudzoziemcach[^1]_) **можна толькі да 30 чэрвеня 2024 года** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców[^3]_)
+- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa o cudzoziemcach[^art252a]_) **можна толькі да 31 снежня 2024 года[^art252a-prolong]** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców[^udsc-dok]_)
 
 - падацца на падставе art. 252a магчыма толькі, **калі ў вас ёсць хаця ж нейкі побыт** (_па візе - нельга_)
 
-- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 30 чэрвеня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252 ustawa o cudzoziemcach[^2]** (_часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
+- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 30 чэрвеня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252 ustawa o cudzoziemcach[^art252]** (_часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
 
 - тэрмін разгляду ўнёску - 30 дзён (_месяц_)
 
@@ -23,7 +23,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 ## Неабходныя дакументы
 
-- запоўнены wniosek (_актуальную версію лепей за ўсё браць са старонкі Urzędu do Spraw Cudzoziemców[^3], бо на старонках ужондаў ён не заўжды можа быць апошняй версіі_)
+- запоўнены wniosek (_актуальную версію лепей за ўсё браць са старонкі Urzędu do Spraw Cudzoziemców[^udsc-dok], бо на старонках ужондаў ён не заўжды можа быць апошняй версіі_)
 
 - 2 актуальных (_не больш за 6 месяцаў_) здымка на дакументы
 
@@ -31,7 +31,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - ксэро карты побыту (_калі wniosek складаецца на_ **_непаўнагадовага_**_, таксама_ **_трэба дадаць ксэро карты побыту аднаго з бацькоў/апекуна_**_, які складае wniosek_)
 
-- актуальны meldunek (_бо, згодна з уставай - дакумент выдае_ **_ваявода па месцы жыхарства на дзень падачы заявы_**_, art. 257 ustawa o cudzoziemcach[^4]_)
+- актуальны meldunek (_бо ён з'яулаецца адным з дакументаў, які паццверджвае вашае ваяводства, а згодна з уставай - дакумент выдае_ **_ваявода па месцы жыхарства на дзень падачы заявы_**_, art. 257 ustawa o cudzoziemcach[^art257]_)
 
 - калі wniosek складаецца на **непаўнагадовага**, таксама трэба дадаць **ксэро яго пасведчання аб нараджэнні і ксэро прысяжнага перакладу** (_альбо ксэро umiejscowienie aktu urodzenia_)
 
@@ -105,7 +105,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - справу можна адсочваць праз інтэрнэт старонку
 
-- прыклады паспяховых кейсаў[^5] [^6]
+- прыклады паспяховых кейсаў[^kiejs1] [^kiejs2]
 
 ### Pomorski Urząd Wojewódzki (Gdańsk)
 - wniosek прымаюць як поштай, так і на месцы пад наступным адрасам:
@@ -124,11 +124,11 @@ permalink: /:year/:month/:day/:title:output_ext
 - пасля складання wniosek, чакаеце на СМС, прыклад:
 > Pomorski UW informuje o aktualizacji danych zawartych w Portalu Klienta dla sprawy o numerze ID: 1122333. Informacje dodatkowe: www.uw.gda.pl.
 
-- сачыць за статусам справы можна на Portal Klienta[^7]
+- сачыць за статусам справы можна на Portal Klienta[^gdansk-portal]
 
 - удакладніць статус справы таксама можна па нумары тэлефону **583-077-466**
 
-- калі ў вас няма дадзеных да лагавання на Portal Klienta[^7], можна запытаць іх праз email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
+- калі ў вас няма дадзеных да лагавання на Portal Klienta[^gdansk-portal], можна запытаць іх праз email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
 > Dzień dobry! Jestem Ivan Ivanov 
 > Złożyłem wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca. Dzisiaj otrzymałem wiadomość SMS o aktualizacji danych w sprawie o numerze 1122333.
 Ponieważ złożyłem wniosek pocztą, nie mam hasła do Portalu Klientu. Czy mogliby Państwo mi je przesłać?
@@ -154,10 +154,10 @@ Z góry dziękuję!
   - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Ponaglenie w sprawie wydania polskiego dokumentu podróży dla cudzoziemca
 
 - калі за 14 дзён ад моманту уручэння ўжонду вашага ponaglenie вы не атрымалі аніякай інфармацыі, то **трэба пісаць skarga да:**
-  - Szef Urzędu so Spraw Cudzoziemców[^8]
+  - Szef Urzędu so Spraw Cudzoziemców[^udsc-kontakt]
     - электронна праз ePUAP: `/UDSC/SkrytkaESP`
     - электронна праз email: `wydzial.kontroli@udsc.gov.pl`, `kierownictwo@udsc.gov.pl`
-  - Rzecznik Praw Obywatelskich[^9]
+  - Rzecznik Praw Obywatelskich[^rpo-kontakt]
     - электронна праз ePUAP: `/RPO/SkrytkaESP`
     - электронна праз email: `BIURORZECZNIKA@BRPO.GOV.PL`
 
@@ -186,38 +186,39 @@ Z góry dziękuję!
 
 [wzor-skarga-wsa-dokument-podrozy.odt](/pl-pages/assets/odt/wzor-skarga-wsa-dokument-podrozy.odt)
 ## Дадатковая інфармацыя
-- **_калі вам дапамагла гэтая старонка, вы можаце падзякаваць аўтару кавай[^10]_**
-- Telegram чат дзеля абмяркоўвання атрымання падарожнага дакумента ва Wrocław[^11]
+- **_калі вам дапамагла гэтая старонка, вы можаце падзякаваць аўтару кавай[^kava]_**
+- Telegram чат дзеля абмяркоўвання атрымання падарожнага дакумента ва Wrocław[^cat-dok]
 
-- спіс польскіх аэрапартоў, авіяперавозчыкаў і краінаў (_як у зоне Шэнген, так і іншыя_) і як яны працуюць альбо не працуюць з польскім падарожным дакументам[^12]
+- спіс польскіх аэрапартоў, авіяперавозчыкаў і краінаў (_як у зоне Шэнген, так і іншыя_) і як яны працуюць альбо не працуюць з польскім падарожным дакументам[^artykul-padarozza]
 
 - амаль ва ўсе краіны паза Шэнгенам трэба атрымоўваць візу, нават калі ў гэтай краіны безвіз з Беларуссю (_за некаторымі выключеннямі, але тут трэба дасканала ведаць міжнароднае права і заканадаўства канкрэтнай краіны_)
 
 - іншыя карысныя Telegram чаты і каналы: 
-  - Partyzanka[^13]
-  - Partyzanka - чат беларуских беженцев в Польше[^14]
-  - 🏫 Польша от яслей до ВУЗов. Partyzanka[^15]
-  - Цэнтр Беларускай Салідарнасці[^16]
-  - Беларуские беженцы Польши[^17]
+  - Partyzanka[^partyzanka]
+  - Partyzanka - чат беларуских беженцев в Польше[^partyzanka-cat]
+  - 🏫 Польша от яслей до ВУЗов. Partyzanka[^partyzanka-info]
+  - Цэнтр Беларускай Салідарнасці[^cbs]
+  - Беларуские беженцы Польши[^uciekacy-cat]
 
 ---
 
 ## Зноскі
-[^1]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
-[^2]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252)
-[^3]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
-[^4]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257)
-[^5]: [_https://t.me/wroclaw_dokument_podrozy/1109_](https://t.me/wroclaw_dokument_podrozy/1109)
-[^6]: [_https://t.me/wroclaw_dokument_podrozy/982_](https://t.me/wroclaw_dokument_podrozy/982)
-[^7]: [_https://klient.gdansk.uw.gov.pl/_](https://klient.gdansk.uw.gov.pl/)
-[^8]: [_https://www.gov.pl/web/udsc/skargi-i-wnioski_](https://www.gov.pl/web/udsc/skargi-i-wnioski)
-[^9]: [_https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich_](https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich)
+[^art252a]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
+[^art252]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252)
+[^udsc-dok]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
+[^art252a-prolong]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499)
+[^art257]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257)
+[^kiejs1]: [_https://t.me/wroclaw_dokument_podrozy/1109_](https://t.me/wroclaw_dokument_podrozy/1109)
+[^kiejs2]: [_https://t.me/wroclaw_dokument_podrozy/982_](https://t.me/wroclaw_dokument_podrozy/982)
+[^gdansk-portal]: [_https://klient.gdansk.uw.gov.pl/_](https://klient.gdansk.uw.gov.pl/)
+[^udsc-kontakt]: [_https://www.gov.pl/web/udsc/skargi-i-wnioski_](https://www.gov.pl/web/udsc/skargi-i-wnioski)
+[^rpo-kontakt]: [_https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich_](https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich)
 
-[^10]: [_https://buycoffee.to/padd1er_](https://buycoffee.to/padd1er)
-[^11]: [_https://t.me/wroclaw_dokument_podrozy_](https://t.me/wroclaw_dokument_podrozy)
-[^12]: [_https://telegra.ph/Polskij-proezdnoj-dokument-01-26_](https://telegra.ph/Polskij-proezdnoj-dokument-01-26)
-[^13]: [_https://t.me/partyzanka_rb_pl_](https://t.me/partyzanka_rb_pl)
-[^14]: [_https://t.me/partyzanka_czat_](https://t.me/partyzanka_czat)
-[^15]: [_https://t.me/partyzanka_pl_rb_](https://t.me/partyzanka_pl_rb)
-[^16]: [_https://t.me/cbs_help_](https://t.me/cbs_help)
-[^17]: [_https://t.me/bejenci_BP_](https://t.me/bejenci_BP)
+[^kava]: [_https://buycoffee.to/padd1er_](https://buycoffee.to/padd1er)
+[^cat-dok]: [_https://t.me/wroclaw_dokument_podrozy_](https://t.me/wroclaw_dokument_podrozy)
+[^artykul-padarozza]: [_https://telegra.ph/Polskij-proezdnoj-dokument-01-26_](https://telegra.ph/Polskij-proezdnoj-dokument-01-26)
+[^partyzanka]: [_https://t.me/partyzanka_rb_pl_](https://t.me/partyzanka_rb_pl)
+[^partyzanka-cat]: [_https://t.me/partyzanka_czat_](https://t.me/partyzanka_czat)
+[^partyzanka-info]: [_https://t.me/partyzanka_pl_rb_](https://t.me/partyzanka_pl_rb)
+[^cbs]: [_https://t.me/cbs_help_](https://t.me/cbs_help)
+[^uciekacy-cat]: [_https://t.me/bejenci_BP_](https://t.me/bejenci_BP)
