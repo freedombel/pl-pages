@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Польскі падарожны дакумент"
+title: "Польскі падарожны дакумент"
 categories: dakumienty-i-daviedki-pl 2024
 permalink: /:year/:month/:day/:title:output_ext
 ---
@@ -15,7 +15,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - падацца на падставе art. 252a магчыма толькі, **калі ў вас ёсць хаця ж нейкі побыт** (_па візе - нельга_)
 
-- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 30 чэрвеня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252 ustawa o cudzoziemcach[^art252]** (_часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
+- у выпадку, калі дзеянне art. 252a **не будзе падоўжана для беларусаў пасля 31 снежня 2024 года**, падавацца можна будзе **толькі на падставе агульнага art. 252 ustawa o cudzoziemcach[^art252]** (_часовы побыт на падставе міжнароднай аховы, часовы побыт па арт. 186 - на падставе гуманітарнай візы, побыт сталы/рэзідэнт, побыт гуманітарны - не блытаць з побытам па гуманітарнай візе_)
 
 - тэрмін разгляду ўнёску - 30 дзён (_месяц_)
 
@@ -43,16 +43,15 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - у залежнасці ад ваяводства, **могуць быць запатрабаваны іншыя дакументы**, раю спраўдзіць старонку свайго ваяводства перад падачай
   - у Pomorski Urząd Wojewódzki (Gdańsk) і Mazowiecki Urząd Wojewódzki (Warszawa) часамі патрабуюць абаснаванне wniosek, прыклад:
-> Jestem Ivan Ivanov i proszę o wydanie polskiego dokumentu podróży dla
-> cudzoziemców z powodu wygaśnięcia mojego paszportu o numerze serii
-> AВ123456, wydanego 09.08.2020 roku w Mińsku, Republice Białorusi. Mój
-> paszport wygasł 09.08.2023 roku. Z powodów politycznych (decyzja
-> DC.00.01.2020 z dnia 00.00.2020 roku szefa działu ds. cudzoziemców)
-> nie mogę skontaktować się z konsulatami Republiki Białorusi na terenie
-> Polski, ani wrócić do Białorusi w celu jego wymiany. Polski
-> dokument podróży dla cudzoziemców jest niezbędny do wyjazdu poza
-> terytorium Republiki Polskiej.
-
+    > Jestem Ivan Ivanov i proszę o wydanie polskiego dokumentu podróży dla
+    > cudzoziemców z powodu wygaśnięcia mojego paszportu o numerze serii
+    > AВ123456, wydanego 09.08.2020 roku w Mińsku, Republice Białorusi. Mój
+    > paszport wygasł 09.08.2023 roku. Z powodów politycznych (decyzja
+    > DC.00.01.2020 z dnia 00.00.2020 roku szefa działu ds. cudzoziemców)
+    > nie mogę skontaktować się z konsulatami Republiki Białorusi na terenie
+    > Polski, ani wrócić do Białorusi w celu jego wymiany. Polski
+    > dokument podróży dla cudzoziemców jest niezbędny do wyjazdu poza
+    > terytorium Republiki Polskiej.
 
 ## Запаўненне wniosek
 
@@ -71,17 +70,21 @@ permalink: /:year/:month/:day/:title:output_ext
 - у раздзеле F, у рамцы, подпіс уласнаручна ставіць той, каму **прызначаецца падарожны дакумент** (_у выпадку з непаўнагадовым - ставіць непаўнагадовы і_ **_толькі ён,_** _калі яму_ **_споўнілася 13 гадоў_**_, калі меньш - застаўляем поле пустым_)
 
 ### Прыклад запоўненага wniosek
+
 [wzor-wniosek-dokument-podrozy.pdf](/pl-pages/assets/pdf/wzor-wniosek-dokument-podrozy.pdf)
 
 ## Падача wniosek
+
 - у залежнасці ад вашага ваяводства, wniosek складаецца альбо асабіста ва ўжондзе, альбо высылаецца поштай на адрас ужонда
 
 - незалежна ад таго, як вы складаеце запоўнены wniosek - **зрабіце здымкі ўсіх яго старонак** (_яны могуць спатрэбіцца вам у дальнейшым, **заўжды рабіце здымкі дакументаў**, якія вы высылаеце альбо складаеце асабіста_)
 
 ### Dolnośląski Urząd Wojewódzki (Wrocław)
+
 - DUW прымае wniosek на падарожны дакумент **толькі поштай**
 
-- адпраўляць поўны набор неабходных дакументаў на адрас: 
+- адпраўляць поўны набор неабходных дакументаў на адрас:
+
   - Dolnośląski Urząd Wojewódzki
   - Wydział Spraw Obywatelskich i Cudzoziemców
   - pl. Powstańców Warszawy 1
@@ -90,8 +93,11 @@ permalink: /:year/:month/:day/:title:output_ext
 - адпраўляць **абавязкова з пацверджаннем адбору** (жоуты квіток)
 
 - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca
+
 ### Mazowiecki Urząd Wojewódzki (Warszawa)
+
 - wniosek з поўным наборам неабходных дакументаў складаеце асабіста ва ўжондзе пад адрасам:
+
   - ul. Marszałkowska 3/5
   - 00-510 Warszawa
 
@@ -108,7 +114,9 @@ permalink: /:year/:month/:day/:title:output_ext
 - прыклады паспяховых кейсаў[^kiejs1] [^kiejs2]
 
 ### Pomorski Urząd Wojewódzki (Gdańsk)
+
 - wniosek прымаюць як поштай, так і на месцы пад наступным адрасам:
+
   - Pomorski Urząd Wojewódzki
   - Wydział Spraw Obywatelskich i Cudzoziemców
   - ul. Okopowa 21/27
@@ -117,30 +125,35 @@ permalink: /:year/:month/:day/:title:output_ext
 - калі складаеце асабіста, то неабходна **абавязкова ўзяць з сабой арыгіналы ўсіх дакументаў** для зверкі
 
 - калі адпраўляеце поштай:
+
   - **абавязкова ўкажыце ваш нумар тэлефону** (на яго потым вы атрымаеце СМС)
   - адпраўляць **абавязкова з пацверджаннем адбору** (жоуты квіток)
   - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca
 
 - пасля складання wniosek, чакаеце на СМС, прыклад:
-> Pomorski UW informuje o aktualizacji danych zawartych w Portalu Klienta dla sprawy o numerze ID: 1122333. Informacje dodatkowe: www.uw.gda.pl.
+
+  > Pomorski UW informuje o aktualizacji danych zawartych w Portalu Klienta dla sprawy o numerze ID: 1122333. Informacje dodatkowe: <www.uw.gda.pl>.
 
 - сачыць за статусам справы можна на Portal Klienta[^gdansk-portal]
 
 - удакладніць статус справы таксама можна па нумары тэлефону **583-077-466**
 
 - калі ў вас няма дадзеных да лагавання на Portal Klienta[^gdansk-portal], можна запытаць іх праз email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
-> Dzień dobry! Jestem Ivan Ivanov 
-> Złożyłem wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca. Dzisiaj otrzymałem wiadomość SMS o aktualizacji danych w sprawie o numerze 1122333.
-Ponieważ złożyłem wniosek pocztą, nie mam hasła do Portalu Klientu. Czy mogliby Państwo mi je przesłać?
-Z góry dziękuję!
+
+  > Dzień dobry! Jestem Ivan Ivanov
+  > Złożyłem wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca. Dzisiaj otrzymałem wiadomość SMS o aktualizacji danych w sprawie o numerze 1122333.
+  > Ponieważ złożyłem wniosek pocztą, nie mam hasła do Portalu Klientu. Czy mogliby Państwo mi je przesłać?
+  > Z góry dziękuję!
 
 - калі статус справы зменіцца на gotowy do odbioru, пішам на email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
-> Dzień dobry! Widzę status w Portalu Klienta - Dokument przygotowany do
-> odbioru. Teraz mogę go odebrać, czyli muszę najpierw zgłosić wizytę?
+
+  > Dzień dobry! Widzę status w Portalu Klienta - Dokument przygotowany do
+  > odbioru. Teraz mogę go odebrać, czyli muszę najpierw zgłosić wizytę?
 
 - забіраць дакумент прыходзіце ў вызначаную вам дату і час
 
 ## Разгляд справы
+
 - рашэнне адносна вашага wniosek **павінна быць праз 30 дзён** ад моманту яго складання (калі адпраўлялі поштай - тэрмін лічыцца ад дня атрымання wniosek ўжондам)
 
 - калі за 30 дзён ад моманту складання wniosek вы не атрымалі аніякай інфармацыі, то **трэба пісаць ponaglenie**
@@ -154,6 +167,7 @@ Z góry dziękuję!
   - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Ponaglenie w sprawie wydania polskiego dokumentu podróży dla cudzoziemca
 
 - калі за 14 дзён ад моманту уручэння ўжонду вашага ponaglenie вы не атрымалі аніякай інфармацыі, то **трэба пісаць skarga да:**
+
   - Szef Urzędu so Spraw Cudzoziemców[^udsc-kontakt]
     - электронна праз ePUAP: `/UDSC/SkrytkaESP`
     - электронна праз email: `wydzial.kontroli@udsc.gov.pl`, `kierownictwo@udsc.gov.pl`
@@ -166,6 +180,7 @@ Z góry dziękuję!
 - **абавязкова дадавайце** да ponaglenie і skarga **ўсе здымкі і ксэро вашых дакументаў, якія датычацца гэтай справы** (_здымкі wniosek, здымкі ўсіх паштовых жоўтых квіткоў, здымкі ponaglenie і гэтак далей_)
 
 ### Прыклад ponaglenie
+
 **!УВАГА!**
 
 **ПРЫКЛАД ПІСАЎСЯ ДЛЯ DOLNOŚLĄSKI URZĄD WOJEWÓDZKI.**
@@ -175,7 +190,9 @@ Z góry dziękuję!
 **ВПІСВАЙЦЕ ІНФАРМАЦЫЮ ЗГОДНА З КАМЕНТАРАМІ Ў ДАКУМЕНЦЕ.**
 
 [wzor-ponaglenie-dokument-podrozy.odt](/pl-pages/assets/odt/wzor-ponaglenie-dokument-podrozy.odt)
+
 ### Прыклад skarga да суда
+
 **!УВАГА!**
 
 **ПРЫКЛАД ПІСАЎСЯ ДЛЯ DOLNOŚLĄSKI URZĄD WOJEWÓDZKI.**
@@ -185,7 +202,9 @@ Z góry dziękuję!
 **ВПІСВАЙЦЕ ІНФАРМАЦЫЮ ЗГОДНА З КАМЕНТАРАМІ Ў ДАКУМЕНЦЕ.**
 
 [wzor-skarga-wsa-dokument-podrozy.odt](/pl-pages/assets/odt/wzor-skarga-wsa-dokument-podrozy.odt)
+
 ## Дадатковая інфармацыя
+
 - **_калі вам дапамагла гэтая старонка, вы можаце падзякаваць аўтару кавай[^kava]_**
 - Telegram чат дзеля абмяркоўвання атрымання падарожнага дакумента ва Wrocław[^cat-dok]
 
@@ -193,7 +212,7 @@ Z góry dziękuję!
 
 - амаль ва ўсе краіны паза Шэнгенам трэба атрымоўваць візу, нават калі ў гэтай краіны безвіз з Беларуссю (_за некаторымі выключеннямі, але тут трэба дасканала ведаць міжнароднае права і заканадаўства канкрэтнай краіны_)
 
-- іншыя карысныя Telegram чаты і каналы: 
+- іншыя карысныя Telegram чаты і каналы:
   - Partyzanka[^partyzanka]
   - Partyzanka - чат беларуских беженцев в Польше[^partyzanka-cat]
   - 🏫 Польша от яслей до ВУЗов. Partyzanka[^partyzanka-info]
@@ -203,22 +222,39 @@ Z góry dziękuję!
 ---
 
 ## Зноскі
+
 [^art252a]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
+
 [^art252]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252)
+
 [^udsc-dok]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
+
 [^art252a-prolong]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499)
+
 [^art257]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257)
+
 [^kiejs1]: [_https://t.me/wroclaw_dokument_podrozy/1109_](https://t.me/wroclaw_dokument_podrozy/1109)
+
 [^kiejs2]: [_https://t.me/wroclaw_dokument_podrozy/982_](https://t.me/wroclaw_dokument_podrozy/982)
+
 [^gdansk-portal]: [_https://klient.gdansk.uw.gov.pl/_](https://klient.gdansk.uw.gov.pl/)
+
 [^udsc-kontakt]: [_https://www.gov.pl/web/udsc/skargi-i-wnioski_](https://www.gov.pl/web/udsc/skargi-i-wnioski)
+
 [^rpo-kontakt]: [_https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich_](https://bip.brpo.gov.pl/pl/content/zlozenie-wniosku-do-rzecznika-praw-obywatelskich)
 
 [^kava]: [_https://buycoffee.to/padd1er_](https://buycoffee.to/padd1er)
+
 [^cat-dok]: [_https://t.me/wroclaw_dokument_podrozy_](https://t.me/wroclaw_dokument_podrozy)
+
 [^artykul-padarozza]: [_https://telegra.ph/Polskij-proezdnoj-dokument-01-26_](https://telegra.ph/Polskij-proezdnoj-dokument-01-26)
+
 [^partyzanka]: [_https://t.me/partyzanka_rb_pl_](https://t.me/partyzanka_rb_pl)
+
 [^partyzanka-cat]: [_https://t.me/partyzanka_czat_](https://t.me/partyzanka_czat)
+
 [^partyzanka-info]: [_https://t.me/partyzanka_pl_rb_](https://t.me/partyzanka_pl_rb)
+
 [^cbs]: [_https://t.me/cbs_help_](https://t.me/cbs_help)
+
 [^uciekacy-cat]: [_https://t.me/bejenci_BP_](https://t.me/bejenci_BP)
