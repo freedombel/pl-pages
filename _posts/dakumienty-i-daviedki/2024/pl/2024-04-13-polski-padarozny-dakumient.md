@@ -59,6 +59,8 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - неабходна **запоўніць усе паля/раздзелы**
 
+- **у частцы D, усе беларусы запаўняюць толькі раздзел D2** (_D1 трэба перакрэсліць згодна з тым, як паказана ніжэй_)
+
 - калі вас не датычыцца нейкае поле/раздзел (_напрыклад, радзел B - пра асобаў на ўтрыманню, які таксама не датычыцца_ **_непаўнагадовых_** _, альбо раздзел D1 - калі ўнёсак складаецца на агульных падставах згодна з art. 252, альбо раздзел E - замена падарожнага дакументу_), то **яго неабходна цалкам перакрэсліць і напісаць "Nie dotyczy" разам з датай ды подпісам**
 
 - **вельмі ўважліва чытайце і запаўняйце ўсе паля і рубрыкі**, дадатковую ўвагу **звярніце на паля з подпісамі і датамі**
@@ -112,7 +114,6 @@ permalink: /:year/:month/:day/:title:output_ext
 - DUW прымае wniosek на падарожны дакумент **толькі поштай**
 
 - адпраўляць поўны набор неабходных дакументаў на адрас:
-
   - Dolnośląski Urząd Wojewódzki
   - Wydział Spraw Obywatelskich i Cudzoziemców
   - pl. Powstańców Warszawy 1
@@ -147,7 +148,6 @@ permalink: /:year/:month/:day/:title:output_ext
 ### Mazowiecki Urząd Wojewódzki (Warszawa)
 
 - wniosek з поўным наборам неабходных дакументаў складаеце асабіста ва ўжондзе пад адрасам:
-
   - ul. Marszałkowska 3/5
   - 00-510 Warszawa
 
@@ -166,7 +166,6 @@ permalink: /:year/:month/:day/:title:output_ext
 ### Pomorski Urząd Wojewódzki (Gdańsk)
 
 - wniosek прымаюць як поштай, так і на месцы пад наступным адрасам:
-
   - Pomorski Urząd Wojewódzki
   - Wydział Spraw Obywatelskich i Cudzoziemców
   - ul. Okopowa 21/27
@@ -175,7 +174,6 @@ permalink: /:year/:month/:day/:title:output_ext
 - калі складаеце асабіста, то неабходна **абавязкова ўзяць з сабой арыгіналы ўсіх дакументаў** для зверкі
 
 - калі адпраўляеце поштай:
-
   - **абавязкова ўкажыце ваш нумар тэлефону** (на яго потым вы атрымаеце СМС)
   - адпраўляць **абавязкова з пацверджаннем адбору** (жоуты квіток)
   - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca
@@ -215,13 +213,11 @@ To be added...
 - ponaglenie пішацца ў орган вышэйшай інстанцыі (_Urząd do Spraw Cudzoziemców_) за пасрэдніцтвам органу першай інстанцыі (_Urząd Wojewódzki_) - гэта значыць, што ў самім ponaglenie вы звяртаецеся да Urząd do Spraw Cudzoziemców, але на канверце пішаце адрас вашага ваяводскага ўжонду
 
 - ponaglenie неабходна адсылаць поштай на адрас органу першай інстанцыі (_Urząd Wojewódzki_)
-
   - адпраўляць **абавязкова з пацверджанем адбору** (_жоўты квіток_)
 
   - на жоўтым квітку, у раздзеле Miejsce na dodatkowe informacje Nadawcy **абавязкова дапісаць**: Ponaglenie w sprawie wydania polskiego dokumentu podróży dla cudzoziemca
 
 - калі за 14 дзён ад моманту уручэння ўжонду вашага ponaglenie вы не атрымалі аніякай інфармацыі, то **трэба пісаць skarga да:**
-
   - Szef Urzędu so Spraw Cudzoziemców[^udsc-kontakt]
     - электронна праз ePUAP: `/UDSC/SkrytkaESP`
     - электронна праз email: `wydzial.kontroli@udsc.gov.pl`, `kierownictwo@udsc.gov.pl`
