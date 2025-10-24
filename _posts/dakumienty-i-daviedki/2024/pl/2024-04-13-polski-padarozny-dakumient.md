@@ -182,21 +182,18 @@ permalink: /:year/:month/:day/:title:output_ext
 
   > Pomorski UW informuje o aktualizacji danych zawartych w Portalu Klienta dla sprawy o numerze ID: 1122333. Informacje dodatkowe: <www.uw.gda.pl>.
 
-- сачыць за статусам справы можна на Portal Klienta[^gdansk-portal]
+- сачыць за статусам справы можна на <https://klient.gdansk.uw.gov.pl>
 
 - удакладніць статус справы таксама можна па нумары тэлефону **583-077-466**
 
-- калі ў вас няма дадзеных да лагавання на Portal Klienta[^gdansk-portal], можна запытаць іх праз email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
+- калі ў вас няма дадзеных да лагавання на <https://klient.gdansk.uw.gov.pl>, можна запытаць іх праз email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
 
   > Dzień dobry! Jestem Ivan Ivanov
   > Złożyłem wniosek o wydanie polskiego dokumentu podróży dla cudzoziemca. Dzisiaj otrzymałem wiadomość SMS o aktualizacji danych w sprawie o numerze 1122333.
   > Ponieważ złożyłem wniosek pocztą, nie mam hasła do Portalu Klientu. Czy mogliby Państwo mi je przesłać?
   > Z góry dziękuję!
 
-- калі статус справы зменіцца на gotowy do odbioru, пішам на email `cudzoziemcy.pobyt@gdansk.uw.gov.pl`, прыклад:
-
-  > Dzień dobry! Widzę status w Portalu Klienta - Dokument przygotowany do
-  > odbioru. Teraz mogę go odebrać, czyli muszę najpierw zgłosić wizytę?
+- калі статус справы зменіцца на gotowy do odbioru альбо вы дастанеце СМС аб гатоўнасьці дакументу, трэба запісацца на візіт праз <https://kolejka.gdansk.uw.gov.pl/> ды пацвердзіць запіс у атрыманым email
 
 - забіраць дакумент прыходзіце ў вызначаную вам дату і час
 
@@ -286,8 +283,6 @@ To be added...
 [^kiejs1]: [_https://t.me/wroclaw_dokument_podrozy/1109_](https://t.me/wroclaw_dokument_podrozy/1109)
 
 [^kiejs2]: [_https://t.me/wroclaw_dokument_podrozy/982_](https://t.me/wroclaw_dokument_podrozy/982)
-
-[^gdansk-portal]: [_https://klient.gdansk.uw.gov.pl/_](https://klient.gdansk.uw.gov.pl/)
 
 [^udsc-kontakt]: [_https://www.gov.pl/web/udsc/skargi-i-wnioski_](https://www.gov.pl/web/udsc/skargi-i-wnioski)
 
