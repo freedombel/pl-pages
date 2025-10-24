@@ -91,6 +91,14 @@ permalink: /:year/:month/:day/:title:output_ext
 
 **У выпадку, калі вам адмовяць у асабістым прыняцьці ўнёску без нейкай абгрунтаванай падставы - раю напісаць пра гэта ў наш чат [^cat-dok] альбо непасрэдна да мяне ў асабістыя.**
 
+#### Дадатковыя нататкі
+
+- раздрукаваны wniosek можна знайсці на паліцах з унёскамі паміж салямі A і B (_**уважліва правярайце самастойна**, каб ён насамрэч быў актуальны - параўнайце з тым, што знаходзіцца на старонцы Urzędu do Spraw Cudzoziemców[^udsc-dok]_)
+
+- калі wniosek на непаўнагадовага, не заўжды патрабуюць ксэро ўсіх старонак пашпарту аднаго з бацькоў/апекуна, могуць узяць толькі разварот са здымкам
+
+- часамі, супрацоўнікі могуць паспрабаваць запытаць ксэро decyzja, нават калі ў вас звыклы побыт, а не міжнародная ахова (_насамрэч, яны самі **могуць і павінны** спраўджаць такія decyzja праз базу POBYT, на вас **не накладаецца абавязак** дадаваць ксэра згодна с art. 220 kodeks postępowania administracyjnego[^art220_kpa]_)
+
 #### Складанне wniosek - асабіста
 
 - саздаеце ўліковы запіс/уваходзіце на <https://pio-przybysz.duw.pl>
@@ -111,7 +119,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 #### Складанне ўнёску - пошта
 
-- DUW прымае wniosek на падарожны дакумент **толькі поштай**
+~~- DUW прымае wniosek на падарожны дакумент **толькі поштай**~~
 
 - адпраўляць поўны набор неабходных дакументаў на адрас:
   - Dolnośląski Urząd Wojewódzki
@@ -273,6 +281,8 @@ To be added...
 [^art252a]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252-a)
 
 [^art252]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-252)
+
+[^art220_kpa]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-postepowania-administracyjnego-16784712/art-220_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-postepowania-administracyjnego-16784712/art-220)
 
 [^udsc-dok]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
 
