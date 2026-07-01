@@ -11,7 +11,7 @@ permalink: /:year/:month/:day/:title:output_ext
 
 - падацца на дакумент падарожны можна **не раней, чым скончыцца тэрмін дзеяння** вашага беларускага пашпарту, альбо ён скрадзены/страчаны/знішчаны (_art. 252a ust. 1 pkt.1 ustawa o cudzoziemcach[^art252a], art. 252 ustawa o cudzoziemcach[^art252]_)
 
-- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa o cudzoziemcach[^art252a]_) **можна толькі да 31 снежня 2025 года[^art252a-prolong]** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców[^udsc-dok]_)
+- падацца на дакумент падарожны **на асобных падставах для беларусаў** (_art. 252а ustawa o cudzoziemcach[^art252a]_) **можна толькі да 31 снежня 2026 года[^art252a-prolong]** (_калі нешта не зменіцца ў будучыні, падставовая інфармацыя і яе абнаўленні даступны на старонцы Urzędu do Spraw Cudzoziemców[^udsc-dok]_)
 
 - падацца на падставе art. 252a магчыма толькі, **калі ў вас ёсць хаця ж нейкі побыт** (_па візе - нельга_)
 
@@ -286,7 +286,7 @@ To be added...
 
 [^udsc-dok]: [_https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca_](https://www.gov.pl/web/udsc/ulatwienia-dla-obywateli-bialorusi-dotyczace-wydawania-polskich-dokumentow-podrozy-dla-cudzoziemca)
 
-[^art252a-prolong]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zmiana-rozporzadzenia-w-sprawie-obywatelstw-ktorych-posiadanie-21986499)
+[^art252a-prolong]: [_https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000800_](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000800)
 
 [^art257]: [_https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257_](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-257)
 
